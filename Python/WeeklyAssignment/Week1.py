@@ -1,3 +1,5 @@
+
+"BASIC CALCULATOR PROGRAM"
 def calculator():
     try:
         num1 = float(input("Enter the first number: "))
